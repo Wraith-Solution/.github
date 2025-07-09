@@ -16,7 +16,7 @@ To create high-quality, flexible, and maintainable Discord bots and automation t
 
 ### ✅ Active
 - **Wraith Bot** – Universal multi-guild Discord bot with moderation, utility, and customizable per-server settings.  
-  [Repo Link](./wraith-bot) *(example link)*
+  [Repo Link](https://github.com/wraith-solution/wraith-discord-bot)
 
 ---
 
