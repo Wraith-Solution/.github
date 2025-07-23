@@ -22,6 +22,7 @@ To create high-quality, flexible, and maintainable Discord bots and automation t
 
 ### 🛠️ Planned / Ideas
 - Ticket System Library
+- Giveaway System Libary
 - Reaction Role Manager
 - Discord API SDK extensions
 - Web Dashboard for Bot Management
